@@ -1,7 +1,7 @@
 name: RedstoneDisabler
 version: '${project.version}'
 main: me.zivush.redstonedisabler.RedstoneDisabler
-api-version: '1.21.11'
+api-version: '26.1.2'
 commands:
   redstonedisabler:
     description: Reload the RedstoneDisabler configuration

@@ -1,7 +1,7 @@
 # 1MB Redstone Disabler
 Made by zivthemagniv for one of my 1MB networked servers; BuildingKingdoms.com. 
 
-This little plugin lets you quickly disable a wide variety of redstone elements on a Paper Minecraft 1.21.11 server and the `config.yml` changes can be reloaded with `/redstonedisabler reload`
+This little plugin lets you quickly disable a wide variety of redstone elements on a Paper Minecraft 26.1.2 server and the `config.yml` changes can be reloaded with `/redstonedisabler reload`
 
 ## Configuration YAML 
 ```yaml
